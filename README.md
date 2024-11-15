@@ -55,6 +55,8 @@ set the Env Vars.
 
 ----
 
+## `2nd server for session`
+<a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIR BOT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## 🎬 Watch the Tutorial
 
